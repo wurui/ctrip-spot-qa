@@ -1,6 +1,6 @@
 {
   "name": "ctrip-spot-qa",
   "version": "0.0.1",
-  "apiDependencies": ["qa"]
+  "apiDependencies": ["qa","a-link"]
 }
 

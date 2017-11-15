@@ -14,21 +14,23 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <qa>
-        <i>
-            <q>
-                car
-            </q>
-            <a>
-                powerful watch
-            </a>
-            <fav_count>
-                28
-            </fav_count>
-            <a_count>
-                70
-            </a_count>
-        </i>
-    </qa>
+        <qa>
+            <i>
+                <q>住在清河坊街好还是西湖附近好？</q>
+                <a></a>
+                <fav_count></fav_count>
+                <a_count>11</a_count>
+            </i>
+            <i>
+                <q>清河坊街离西湖近吗？</q>
+                <a></a>
+                <fav_count></fav_count>
+                <a_count>6</a_count>
+            </i>
+        </qa>
+        <a-link>
+            <title>查看全部</title>
+            <href>#more</href>
+        </a-link>
     </data>
 </root>
